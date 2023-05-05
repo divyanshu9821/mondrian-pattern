@@ -1,2 +1,2 @@
 # mondrian-pattern
-Inspired from **Piet mondrian's** composition with red blue and yellow painting.
+Inspired from **PIET MONDRIAN's** composition with red blue and yellow painting.
